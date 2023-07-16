@@ -1,4 +1,4 @@
-# 💝 QUEEN HENTAI 💝
+# 💝 QUEEN HENTAI (18+ Adult Video Downloader And More Features) Bot 💝
 
 <p align="center">
  <a href="#"><img title="QUEEN HENTAI" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -20,7 +20,7 @@
 <a 
 
 ####  
-QUEEN HENTAI Multi Device Whatsapp Bot.
+QUEEN HENTAI Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 
 ***
 
@@ -36,7 +36,7 @@ QUEEN HENTAI Multi Device Whatsapp Bot.
 
 ### a little about this bot
 - ✔️ | **Simple** 
-- ✔️ | **Button Template** 
+- ✔️ | **18+ Adult Video Downloader** 
 - ✔️ | **Multi Device** 
 - ✔️ | **Button Document(Experiment)** 
 ---------
